@@ -24,14 +24,14 @@ What do we do:
 
 ### Extract & Load
 - Prefect
-- Airflow
+- Apache Airflow
 
 ### Transform (Data Modeling)
 - dbt_
 - dataform
 
 ### Data Warehouse
-- snowflake
+- Snowflake
 - Amazon Redshift
 - BigQuery
 - Azure Synapse Analytics
