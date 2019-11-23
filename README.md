@@ -18,7 +18,7 @@ What do we do:
 - Python
     - [Profitable App Profiles](https://github.com/tpedar/Data-Analysis-Visualisation/blob/master/Profitable%20App%20Profiles/Profitable%20App%20Profiles%20Analysis.ipynb)
         - Our aim in this project is to find mobile app profiles that are profitable for the App Store and Google Play Store markets. We're working as data analysts for a company that builds Android and iOS mobile apps, and our job is to enable our team of developers to make data-driven decisions with respect to the kind of apps they build.
-    - [Havker News Analysis](https://github.com/tpedar/Data-Analysis-Visualisation/blob/master/Hacker%20News/Hacker%20News%20Analysis.ipynb)
+    - [Hacker News Analysis](https://github.com/tpedar/Data-Analysis-Visualisation/blob/master/Hacker%20News/Hacker%20News%20Analysis.ipynb)
         - The goal for this project was to compare and analyze two different types of posts and analyze how they are voted and commented upon
 
 - Power Bi
